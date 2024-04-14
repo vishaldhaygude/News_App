@@ -1,0 +1,15 @@
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin: 50px 100px;
+}
+.search{
+    width: 50%;
+    display: block;
+    margin: 20px auto;
+    font-size: 25px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border: 1px solid #000;
+}
